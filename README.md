@@ -1,8 +1,11 @@
-🎓 University Academic Database Management SystemA 
+🎓 University Academic Database Management System
+
+
 secure and user-friendly Database Management System built with Python (Tkinter GUI) and MySQL for managing university academic records.
 This project allows users to efficiently handle student, faculty, course, and department data — all within an intuitive graphical interface.
 
 🚀 Features
+
 🧑‍🎓 Student Management: Add, update, view, and delete student details.
 🧑‍🏫 Faculty Management: Maintain faculty records with relational data links.
 📚 Course & Department Handling: Manage course offerings and their assigned departments.
@@ -11,13 +14,18 @@ This project allows users to efficiently handle student, faculty, course, and de
 Parameterized SQL queries used to prevent SQL Injection.
 Input validation to prevent data manipulation.
 💾 MySQL Database Integration: All records are securely stored and retrieved using MySQL.
+
+
 🛠️ Tech Stack
+
 Component	Technology
 Frontend	Python (Tkinter)
 Backend	MySQL
 Database Connector	mysql-connector-python
 Language	Python 3.x
 ⚙️ Setup Instructions
+
+
 1. Clone this Repository
 2. Install Dependencies
 
@@ -76,7 +84,7 @@ Uni_academic_DB_Python/
 
 
 🧑‍💻 Author
-Bonita Batool
+Muskan riaz Hussain
 B.S. Artificial Intelligence
 University Project — Database Management System in Python
 
